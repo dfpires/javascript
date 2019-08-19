@@ -29,6 +29,6 @@ function vet6(){
            nomeMenor = nomes[i];
        }
     }
-    alert("Maior valor " + nomeMaior + " - " + maior)
+    alert("Maior valor digitado" + nomeMaior + " - " + maior)
     alert("Menor valor " + nomeMenor + " - " + menor)
 }
